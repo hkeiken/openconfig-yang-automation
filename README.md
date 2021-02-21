@@ -8,7 +8,7 @@
 
 I got the quesion to show how to use yang to configure Junos.
 
-Yang is a modeling language. For Networking, JunOS supports using
+Yang is a modeling language. For networking, JunOS supports using
 the OpenConfig Yang model for configuring switches. However,
 Yang itself is the datamodel. For the modelling language to be
 useful for JunOS, the data has to be converted to xml or json.
